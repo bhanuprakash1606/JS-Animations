@@ -37,4 +37,4 @@ JavaScript Animations with Anime.js
 - To start with, it is quite simple to use. Everything is based on a single function call, and you only need to feed parameters into it, which is incredibly convenient.
 
 ### Anime.js Documentation
-<a src="https://animejs.com/documentation/">Anime.js Documentation</a>
+<a href="https://animejs.com/documentation/">Anime.js Documentation</a>
