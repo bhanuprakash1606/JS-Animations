@@ -1,0 +1,12 @@
+.box {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 4px;
+    display: inline-block;
+}
+
+.purple {background-color: purple;}
+.green {background-color: green;}
+.black {background-color: black;}
+.grey {background-color: grey;}
