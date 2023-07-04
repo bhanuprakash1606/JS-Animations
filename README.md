@@ -28,7 +28,7 @@ JavaScript Animations with Anime.js
 - If you are downloading the library from the Anime.js website, include the Anime.js JavaScript file in your HTML code, like so:
     <script src="path/to/anime.min.js"></script>
 - The **Node Package Manager(npm)** is another option. If you use npm, the script will be located in node modules/animejs/lib/anime.min.js
-  $ npm install animejs --save
+  **_$ npm install animejs --save_**
 - Another option is to utilize the most recent release of the library provided on CDN:
     <script src="https://cdnjs.cloudflare.com/ajax/lib/animejs/3.2.1/anime.min.js"></script>
 
